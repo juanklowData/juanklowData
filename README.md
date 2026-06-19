@@ -16,7 +16,7 @@
 
 Ingeniero con **+10 años de experiencia** en ETL, Business Intelligence y desarrollo full stack. Especializado en el ciclo completo del dato: desde la **arquitectura y modelado** (Data Warehouse / Data Lake) hasta la **visualización y el producto** que lo consume.
 
-- 🔭 Actualmente: desarrollo de plataforma web (React + Django) e ingeniería de datos en **Canfone**.
+- 🔭 Actualmente: **Desarrollador Frontend** en **Gexbot**.
 - 🌱 Estudiando: **Ingeniería en Ciencia de Datos** — Corporación Universitaria Iberoamericana.
 - 🎓 Tecnólogo en Análisis y Desarrollo de Sistemas de Información — **SENA**.
 - 💬 Pregúntame sobre: **ETL, PL/SQL, modelado de datos, dashboards y arquitecturas escalables**.
@@ -74,7 +74,8 @@ Ingeniero con **+10 años de experiencia** en ETL, Business Intelligence y desar
 
 | Empresa | Rol | Foco |
 |---|---|---|
-| **Canfone** *(actual)* | Desarrollador Full Stack / Data | React, Python, Django · pagos (FreshBooks, Authorize) · ETL PostgreSQL & MongoDB |
+| **Gexbot** *(actual)* | Desarrollador Frontend | Desarrollo de interfaces web · React / TypeScript |
+| **Canfone** | Desarrollador Full Stack / Data | React, Python, Django · pagos (FreshBooks, Authorize) · ETL PostgreSQL & MongoDB |
 | **Constructora Bolívar** | Consultor Tecnológico | Dashboards para gestión avanzada de proyectos |
 | **Dostics** | Consultor BI SAP | PL/SQL · ETL con Informatica PowerCenter |
 | **Ilum Capital** | Analista de Datos | Dashboards en Power BI · Python sobre MongoDB |
