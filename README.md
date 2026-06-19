@@ -1,31 +1,31 @@
-<h1 align="center">Hola, soy Juan Carlos Cruz 👋</h1>
+<h1 align="center">Hi, I'm Juan Carlos Cruz 👋</h1>
 
-<h3 align="center">Ingeniero de Datos & Desarrollador Full Stack | BI · ETL · Data Engineering</h3>
+<h3 align="center">Data Engineer & Full Stack Developer | BI · ETL · Data Engineering</h3>
 
 <p align="center">
   <a href="mailto:datanalisis.jc@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Santiago%20de%20Cali-Colombia-2D9596?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación"/>
-  <img src="https://komarev.com/ghpvc/?username=juanklowData&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Santiago%20de%20Cali-Colombia-2D9596?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=juanklowData&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About me
 
-Ingeniero con **+10 años de experiencia** en ETL, Business Intelligence y desarrollo full stack. Especializado en el ciclo completo del dato: desde la **arquitectura y modelado** (Data Warehouse / Data Lake) hasta la **visualización y el producto** que lo consume.
+Engineer with **10+ years of experience** in ETL, Business Intelligence and full stack development. Specialized in the full data lifecycle: from **architecture and modeling** (Data Warehouse / Data Lake) to the **visualization and product** that consumes it.
 
-- 🔭 Actualmente: **Desarrollador Frontend** en **Gexbot**.
-- 🌱 Estudiando: **Ingeniería en Ciencia de Datos** — Corporación Universitaria Iberoamericana.
-- 🎓 Tecnólogo en Análisis y Desarrollo de Sistemas de Información — **SENA**.
-- 💬 Pregúntame sobre: **ETL, PL/SQL, modelado de datos, dashboards y arquitecturas escalables**.
+- 🔭 Currently: **Frontend Developer** at **Gexbot**.
+- 🌱 Studying: **Data Science Engineering** — Corporación Universitaria Iberoamericana.
+- 🎓 Technologist in Systems Analysis & Software Development — **SENA**.
+- 💬 Ask me about: **ETL, PL/SQL, data modeling, dashboards and scalable architectures**.
 
 ---
 
-### 🛠️ Stack tecnológico
+### 🛠️ Tech stack
 
-**Lenguajes**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -41,7 +41,7 @@ Ingeniero con **+10 años de experiencia** en ETL, Business Intelligence y desar
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-**Bases de datos & Data**
+**Databases & Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
@@ -57,7 +57,7 @@ Ingeniero con **+10 años de experiencia** en ETL, Business Intelligence y desar
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=juanklowData&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
@@ -70,20 +70,20 @@ Ingeniero con **+10 años de experiencia** en ETL, Business Intelligence y desar
 
 ---
 
-### 💼 Experiencia destacada
+### 💼 Experience
 
-| Empresa | Rol | Foco |
+| Company | Role | Focus |
 |---|---|---|
-| **Gexbot** *(actual)* | Desarrollador Frontend | Desarrollo de interfaces web · React / TypeScript |
-| **Canfone** | Desarrollador Full Stack / Data | React, Python, Django · pagos (FreshBooks, Authorize) · ETL PostgreSQL & MongoDB |
-| **Constructora Bolívar** | Consultor Tecnológico | Dashboards para gestión avanzada de proyectos |
-| **Dostics** | Consultor BI SAP | PL/SQL · ETL con Informatica PowerCenter |
-| **Ilum Capital** | Analista de Datos | Dashboards en Power BI · Python sobre MongoDB |
-| **Sigma Móvil** | Desarrollador / Gestor de BD | JavaScript, PHP, Node.js, Angular · MongoDB & SQL Server |
-| **Global Circuit** | Desarrollador de Software | JavaScript, HTML, CSS · administración MySQL |
+| **Gexbot** *(current)* | Frontend Developer | Web interface development · React / TypeScript |
+| **Canfone** | Full Stack / Data Developer | React, Python, Django · payments (FreshBooks, Authorize) · ETL PostgreSQL & MongoDB |
+| **Constructora Bolívar** | Technology Consultant | Dashboards for advanced project management |
+| **Dostics** | SAP BI Consultant | PL/SQL · ETL with Informatica PowerCenter |
+| **Ilum Capital** | Data Analyst | Power BI dashboards · Python over MongoDB |
+| **Sigma Móvil** | Developer / DB Manager | JavaScript, PHP, Node.js, Angular · MongoDB & SQL Server |
+| **Global Circuit** | Software Developer | JavaScript, HTML, CSS · MySQL administration |
 
 ---
 
 <p align="center">
-  <i>Responsabilidad · puntualidad · trabajo en equipo · liderazgo.</i>
+  <i>Responsibility · punctuality · teamwork · leadership.</i>
 </p>
