@@ -17,8 +17,8 @@
 Engineer with **10+ years of experience** in ETL, Business Intelligence and full stack development. Specialized in the full data lifecycle: from **architecture and modeling** (Data Warehouse / Data Lake) to the **visualization and product** that consumes it.
 
 - 🔭 Currently: **Frontend Developer** at **Gexbot**.
-- 🌱 Studying: **Data Science Engineering** — Corporación Universitaria Iberoamericana.
-- 🎓 Technologist in Systems Analysis & Software Development — **SENA**.
+- 🌱 Studying: **Data Science Engineering**.
+- 🎓 Technologist in Systems Analysis & Software Development.
 - 💬 Ask me about: **ETL, PL/SQL, data modeling, dashboards and scalable architectures**.
 
 ---
