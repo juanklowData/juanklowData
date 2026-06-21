@@ -1,81 +1,62 @@
-<h1 align="center">Hi, I'm Juan Carlos Cruz 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Juan%20Carlos%20Cruz&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20Frontend%20Developer&descAlignY=58&descColor=8b949e" width="100%"/>
+</div>
 
-<h3 align="center">Data Engineer & Full Stack Developer | BI · ETL · Data Engineering</h3>
-
-<p align="center">
-  <a href="mailto:datanalisis.jc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/Santiago%20de%20Cali-Colombia-2D9596?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=juanklowData&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+Full+Stack+Developer;10%2B+years+building+data+products;Python+%7C+SQL+%7C+React+%7C+TypeScript;From+raw+data+to+production+products" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🚀 About me
+## 🛠️ Technologies
 
-Engineer with **10+ years of experience** in ETL, Business Intelligence and full stack development. Specialized in the full data lifecycle: from **architecture and modeling** (Data Warehouse / Data Lake) to the **visualization and product** that consumes it.
+<div align="center">
 
-- 🔭 Currently: **Frontend Developer** at **Gexbot**.
-- 🌱 Studying: **Data Science Engineering**.
-- 🎓 Technologist in Systems Analysis & Software Development.
-- 💬 Ask me about: **ETL, PL/SQL, data modeling, dashboards and scalable architectures**.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
-
-### 🛠️ Tech stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Backend & Frameworks**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-**Databases & Data**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**BI & ETL**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Informatica](https://img.shields.io/badge/Informatica%20PowerCenter-FF6600?style=flat-square&logo=informatica&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP%20BI-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+</div>
 
 ---
 
-### 📊 GitHub stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juanklowData&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanklowData&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=juanklowData&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanklowData&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanklowData&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanklowData&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+</div>
 
 ---
 
-### 💼 Experience
+## 🚀 About me
+
+- 🔭 Currently: **Frontend Developer** at **Gexbot**
+- 🌱 Studying: **Data Science Engineering**
+- 🎓 Technologist in Systems Analysis & Software Development
+- 💬 Ask me about: **ETL, PL/SQL, data modeling, dashboards and scalable architectures**
+- 📫 Contact: **datanalisis.jc@gmail.com**
+- 📍 Santiago de Cali, Colombia
+
+---
+
+## 💼 Experience
 
 | Company | Role | Focus |
 |---|---|---|
 | **Gexbot** *(current)* | Frontend Developer | Web interface development · React / TypeScript |
-| **Canfone** | Full Stack / Data Developer | React, Python, Django · payments (FreshBooks, Authorize) · ETL PostgreSQL & MongoDB |
+| **Canfone** | Full Stack / Data Developer | React, Python, Django · ETL PostgreSQL & MongoDB |
 | **Constructora Bolívar** | Technology Consultant | Dashboards for advanced project management |
 | **Dostics** | SAP BI Consultant | PL/SQL · ETL with Informatica PowerCenter |
 | **Ilum Capital** | Data Analyst | Power BI dashboards · Python over MongoDB |
@@ -84,6 +65,6 @@ Engineer with **10+ years of experience** in ETL, Business Intelligence and full
 
 ---
 
-<p align="center">
-  <i>Responsibility · punctuality · teamwork · leadership.</i>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+</div>
