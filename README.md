@@ -63,3 +63,4 @@
 | **Ilum Capital** | Data Analyst | Power BI · Python · MongoDB |
 | **Sigma Móvil** | Developer / DB Manager | Node.js · Angular · SQL Server |
 | **Global Circuit** | Software Developer | JavaScript · MySQL |
+
