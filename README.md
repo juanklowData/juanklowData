@@ -56,7 +56,7 @@
 
 | Company | Role | Focus |
 |---|---|---|
-| **Gexbot** *(current)* | Frontend Developer | React / TypeScript |
+| **Gexbot** | Frontend Developer | React / TypeScript |
 | **Canfone** | Full Stack / Data Developer | React, Python, Django · ETL |
 | **Constructora Bolívar** | Technology Consultant | Dashboards |
 | **Dostics** | SAP BI Consultant | PL/SQL · Informatica PowerCenter |
